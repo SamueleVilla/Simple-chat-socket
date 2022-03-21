@@ -31,11 +31,6 @@ namespace Server
             {
                 CloseEverything(socket, Reader, Writer);
             }
-            catch (Exception e)
-            {
-
-            }
-            
             
 
         }
